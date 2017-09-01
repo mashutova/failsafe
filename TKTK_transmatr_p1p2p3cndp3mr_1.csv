@@ -1,6 +1,0 @@
-,TKTK,TKtk1,TKtk2,dead,escaper
-TKTK,0,0,0,0,0
-TKtk1,2*p1*(1-p1-p2),0,0,0,0
-TKtk2,2*p2*(1-p1-p2),(1-p1-p2)*p2,0,0,0
-dead,p2*p2,p2*p2,p2+p3cnd/2+p3mr,0,0
-escaper,2*p1*p2+p1*p1,p1*(1-p2)+p2*(1-p2)+p1*p2+p3cnd/2 + p3mr,p1,0,0
