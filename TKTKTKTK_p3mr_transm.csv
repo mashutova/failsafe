@@ -1,0 +1,15 @@
+,TKTK TKTK,tk1TK TKTK,tk2TK TKTK,tk1tk1 TKTK,tk1TK tk1TK,tk1tk2 TKTK,tk1TK tk2TK,tk2TK tk2TK,tk1tk1 tk1TK,tk1tk1 tk2TK,tk1tk2 tk1TK,tk1tk2 tk2TK,dead,escaper
+TKTK TKTK,0,p3mr,p3mr,0,0,0,0,0,0,0,0,0,0,0
+tk1TK TKTK,0,0,0,0,2*p3mr,0,p3mr,0,0,0,0,0,0,0
+tk2TK TKTK,0,0,0,0,0,0,p3mr,2*p3mr,0,0,0,0,0,0
+tk1tk1 TKTK,0,0,0,0,0,p3mr,0,0,p3mr,p3mr,0,0,0,0
+tk1TK tk1TK,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+tk1tk2 TKTK,0,0,0,0,0,0,0,0,0,0,p3mr,p3mr,0,0
+tk1TK tk2TK,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+tk2TK tk2TK,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+tk1tk1 tk1TK,0,0,0,0,0,0,0,0,0,0,p3mr,0,0,0
+tk1tk1 tk2TK,0,0,0,0,0,0,0,0,0,0,0,p3mr,0,0
+tk1tk2 tk1TK,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+tk1tk2 tk2TK,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+dead,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+escaper,0,0,0,0,0,0,0,0,0,0,0,0,0,0
